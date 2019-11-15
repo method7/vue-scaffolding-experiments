@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-    <nav role="navigation" id="nav">
+    <nav
+      role="navigation"
+      id="nav"
+    >
       <nav-holder />
     </nav>
     <router-view />
